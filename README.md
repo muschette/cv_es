@@ -10,6 +10,7 @@ Individuo bien organizado orientado a resultados con capacidad demostrada para i
 Su extensiva experiencia internacional y sus efectivas capacidades analíticas y de solución de problemas le permiten integrar con éxito tecnologías nuevas y modelos de negocio emergentes. Comprometido con la calidad y la excelencia en el servicio, con aptitud para el lanzamiento de tecnologías y operaciones empresariales nuevas.
 
 Capacidades Clave
+
 	Historial de toma de decisiones de manera colaborativa, resolviendo conflictos y asegurando el seguimiento con una extraordinaria comunicación verbal y escrita 
 
 	Capacidad para elegir la pila de tecnología adecuada para el propósito de los servicios de aplicaciones de backend y las capas de frontend
